@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2 align="center">Hello! 👋</h2>
 
-<!--
-**martynas-subonis/martynas-subonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Welcome to my GitHub profile! I’m glad you’re here. I also write a technical newsletter called <a href="https://martynassubonis.substack.com/">MLOps Shenanigans</a>, where I explore the complexities and innovations within MLOps.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Below is a list of my GitHub repositories—feel free to explore:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/martynas-subonis/py-manage">py-manage</a><br>
+  <a href="https://github.com/martynas-subonis/model-serving">model-serving</a><br>
+  <a href="https://github.com/martynas-subonis/ml-workflows">ml-workflows</a><br>
+  <a href="https://github.com/martynas-subonis/bro-market">bro-market</a>
+</p>
+
+<p align="center">
+Thanks for stopping by!
+</p>
